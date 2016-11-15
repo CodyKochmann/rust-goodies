@@ -1,1 +1,7 @@
-./*
+# ignore everything by default
+*
+# whitelisted files here
+!*.rs
+!*.md
+!LICENSE
+!.gitignore
